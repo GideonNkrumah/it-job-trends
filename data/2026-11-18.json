@@ -2,15 +2,15 @@
   "adzuna": {
     "country": "ca",
     "currency": "CAD",
-    "median_salary": 82907.0,
+    "median_salary": 82000.0,
     "status": "ok",
     "titles": [
       {
-        "count": 2522,
-        "median_salary": 92500.0,
+        "count": 2525,
+        "median_salary": 92738.5,
         "query": "systems administrator",
         "remote_share": 0.12,
-        "salary_samples": 13,
+        "salary_samples": 14,
         "sampled": 50,
         "top_companies": [
           "STACK IT Recruitment",
@@ -21,23 +21,23 @@
         ]
       },
       {
-        "count": 2498,
-        "median_salary": 64500.0,
+        "count": 2464,
+        "median_salary": 65000.0,
         "query": "IT support",
         "remote_share": 0.04,
-        "salary_samples": 16,
+        "salary_samples": 17,
         "sampled": 50,
         "top_companies": [
           "Northumberland Ferries Limited",
           "Lemay",
           "Apex Industries",
           "The Shaw Group",
-          "iFlow Inc"
+          "Tech Tammina LLC"
         ]
       },
       {
-        "count": 1843,
-        "median_salary": 140175.0,
+        "count": 1860,
+        "median_salary": 135050.0,
         "query": "cloud engineer",
         "remote_share": 0.06,
         "salary_samples": 8,
@@ -51,22 +51,22 @@
         ]
       },
       {
-        "count": 1114,
-        "median_salary": 91597.5,
+        "count": 1129,
+        "median_salary": 82907.0,
         "query": "data analyst",
         "remote_share": 0.08,
-        "salary_samples": 12,
+        "salary_samples": 13,
         "sampled": 50,
         "top_companies": [
           "Cardinal Health",
           "Gore Mutual Insurance",
-          "Artech LLC",
           "PCL Construction",
+          "Artech LLC",
           "Nuclear Promise X"
         ]
       },
       {
-        "count": 930,
+        "count": 937,
         "median_salary": 107120.0,
         "query": "network engineer",
         "remote_share": 0.02,
@@ -81,10 +81,10 @@
         ]
       },
       {
-        "count": 360,
+        "count": 369,
         "median_salary": 84500.0,
         "query": "security analyst",
-        "remote_share": 0.06,
+        "remote_share": 0.08,
         "salary_samples": 6,
         "sampled": 50,
         "top_companies": [
@@ -96,11 +96,11 @@
         ]
       },
       {
-        "count": 331,
-        "median_salary": 58075.0,
+        "count": 329,
+        "median_salary": 58650.0,
         "query": "help desk",
         "remote_share": 0.12,
-        "salary_samples": 14,
+        "salary_samples": 13,
         "sampled": 50,
         "top_companies": [
           "VC3",
@@ -113,18 +113,18 @@
     ],
     "top_companies": [
       "VC3",
-      "STACK IT Recruitment",
+      "Scotiabank",
       "Artech LLC",
       "Flexstaf IT",
-      "Scotiabank",
+      "STACK IT Recruitment",
       "Toronto Parking Authority",
-      "Cardinal Health",
       "Northumberland Ferries Limited",
       "Insight Global",
-      "Reitmans  Lt\u00e9e/Ltd"
+      "Reitmans  Lt\u00e9e/Ltd",
+      "Varicent"
     ],
-    "total_postings": 9598,
-    "unique_postings": 344,
+    "total_postings": 9613,
+    "unique_postings": 345,
     "window_days": 30
   },
   "bls": {
@@ -726,7 +726,7 @@
     },
     "status": "ok"
   },
-  "collected_at": "2026-11-18 06:04 UTC",
+  "collected_at": "2026-11-18 21:25 UTC",
   "date": "2026-11-18",
   "hn": {
     "comments_indexed": 377,
