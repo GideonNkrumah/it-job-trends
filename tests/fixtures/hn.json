@@ -1,0 +1,67 @@
+{
+  "stories": {
+    "hits": [
+      {
+        "objectID": "44000001",
+        "title": "Ask HN: Who is hiring? (October 2026)",
+        "created_at": "2026-10-01T15:00:00Z",
+        "created_at_i": 1790866800,
+        "num_comments": 501
+      },
+      {
+        "objectID": "44000002",
+        "title": "Ask HN: Who is hiring? (November 2026)",
+        "created_at": "2026-11-01T15:00:00Z",
+        "created_at_i": 1793545200,
+        "num_comments": 318
+      }
+    ]
+  },
+  "comments": {
+    "0": {
+      "nbPages": 1,
+      "hits": [
+        {
+          "objectID": "55000001",
+          "comment_text": "Acme Logistics | IT Support Engineer | Austin, TX | REMOTE<p>We need Tier 2 support experience with Windows Server, Active Directory and Intune. Jira and ServiceNow experience is a plus. Salary 65-80k."
+        },
+        {
+          "objectID": "55000002",
+          "comment_text": "Northwind Health | Systems Administrator | Columbus, OH | ONSITE<p>Manage VMware and Hyper-V clusters, some Linux. PowerShell or Python for automation. Active Directory is the core of this role."
+        },
+        {
+          "objectID": "55000003",
+          "comment_text": "Fibre Co | Network Engineer | Denver, CO | REMOTE<p>BGP, OSPF, Cisco and Juniper. CCNP preferred. You will own firewall policy and SD-WAN rollouts."
+        },
+        {
+          "objectID": "55000004",
+          "comment_text": "Draft Labs | Cloud / DevOps Engineer | Remote | REMOTE<p>AWS and Azure, Kubernetes, Terraform, Docker, CI/CD. We run a small platform team and pay well."
+        },
+        {
+          "objectID": "55000005",
+          "comment_text": "SecureBank | Security Engineer (SOC) | New York, NY | ONSITE<p>Splunk and SIEM tuning, zero trust rollout, IAM reviews. Security engineer with 3+ years in a SOC."
+        },
+        {
+          "objectID": "55000006",
+          "comment_text": "Datawheel | Data Engineer | Remote | REMOTE<p>SQL, dbt, Snowflake and Python. We ingest ETL pipelines for retail customers. Analytics engineer mindset welcome."
+        },
+        {
+          "objectID": "55000007",
+          "comment_text": "Tiny Studio | Software Engineer | Berlin | REMOTE<p>Full stack product work: TypeScript, Postgres, AWS. Backend or frontend specialists both welcome."
+        },
+        {
+          "objectID": "55000008",
+          "comment_text": "Group IT | IT Manager | Manchester, UK | ONSITE<p>Run a small IT team, own vendor management, project manager for ERP rollouts. Scrum and PMP exposure useful."
+        },
+        {
+          "objectID": "55000009",
+          "comment_text": "Interested, mailing now."
+        },
+        {
+          "objectID": "55000010",
+          "comment_text": "Vertex Sales | Account Executive | Chicago, IL | ONSITE<p>Enterprise SaaS sales role, quota carrying, no technical background needed. Base 90k plus commission."
+        }
+      ]
+    }
+  }
+}

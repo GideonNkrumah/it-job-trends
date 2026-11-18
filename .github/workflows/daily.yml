@@ -1,0 +1,56 @@
+name: daily-snapshot
+
+on:
+  schedule:
+    # 13:17 UTC = 08:17 EST / 09:17 EDT. GitHub may delay this under load.
+    - cron: "17 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+      ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+      BLS_API_KEY: ${{ secrets.BLS_API_KEY }}
+      # Commits must be authored as you for them to appear on your contribution graph.
+      GIT_AUTHOR_NAME: Gideon Nkrumah
+      GIT_AUTHOR_EMAIL: 50252812+GideonNkrumah@users.noreply.github.com
+      GIT_COMMITTER_NAME: Gideon Nkrumah
+      GIT_COMMITTER_EMAIL: 50252812+GideonNkrumah@users.noreply.github.com
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect snapshot
+        run: python scripts/snapshot.py
+
+      - name: Publish snapshot
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No new data today - nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore: daily IT job-market snapshot $(date -u +%F)"
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push rejected, rebasing and retrying..."
+            git pull --rebase --autostash
+          done
+          echo "could not push after 3 attempts" >&2
+          exit 1

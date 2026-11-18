@@ -1,0 +1,39 @@
+{
+  "template": {
+    "results": [
+      {
+        "title": "IT Support Specialist",
+        "company": { "display_name": "TEKsystems" },
+        "salary_min": 50000,
+        "salary_max": 62000,
+        "description": "Tier 2 support for Windows Server and Active Directory. Remote-friendly, Jira and Intune in daily use.",
+        "redirect_url": "https://example.invalid/1"
+      },
+      {
+        "title": "Help Desk Analyst",
+        "company": { "display_name": "Robert Half" },
+        "salary_min": 42000,
+        "salary_max": 48000,
+        "description": "Onsite service desk: Office 365, Intune, ServiceNow. Great first IT role.",
+        "redirect_url": "https://example.invalid/2"
+      },
+      {
+        "title": "Systems Administrator",
+        "company": { "display_name": "Contoso" },
+        "salary_min": 70000,
+        "salary_max": 85000,
+        "description": "VMware, Hyper-V, Linux and PowerShell automation. Hybrid role.",
+        "redirect_url": "https://example.invalid/3"
+      }
+    ]
+  },
+  "counts": {
+    "IT support": 4123,
+    "help desk": 2874,
+    "systems administrator": 1902,
+    "network engineer": 1455,
+    "cloud engineer": 2210,
+    "security analyst": 1633,
+    "data analyst": 3488
+  }
+}

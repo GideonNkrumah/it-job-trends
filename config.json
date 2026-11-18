@@ -1,0 +1,114 @@
+{
+  "adzuna": {
+    "country": "ca",
+    "currency": "CAD",
+    "where": "",
+    "max_days_old": 30,
+    "results_per_page": 50,
+    "queries": [
+      "IT support",
+      "help desk",
+      "systems administrator",
+      "network engineer",
+      "cloud engineer",
+      "security analyst",
+      "data analyst"
+    ]
+  },
+  "hn": {
+    "min_text_length": 60,
+    "max_pages": 3,
+    "tracks": [
+      {
+        "name": "IT support / help desk",
+        "keywords": ["help desk", "helpdesk", "service desk", "desktop support", "it support", "technical support", "endpoint", "tier 1", "tier 2"]
+      },
+      {
+        "name": "Systems / infrastructure",
+        "keywords": ["sysadmin", "system administrator", "systems engineer", "infrastructure", "windows server", "active directory", "vmware", "hyper-v", "linux admin", "site reliability", "sre"]
+      },
+      {
+        "name": "Networking",
+        "keywords": ["network engineer", "cisco", "juniper", "bgp", "firewall", "ccna", "ccnp", "sd-wan", "lan", "wan"]
+      },
+      {
+        "name": "Cloud / DevOps",
+        "keywords": ["aws", "azure", "gcp", "kubernetes", "terraform", "devops", "ci/cd", "ansible", "docker"]
+      },
+      {
+        "name": "Security",
+        "keywords": ["security engineer", "infosec", "soc", "siem", "pentest", "splunk", "iam", "zero trust", "appsec"]
+      },
+      {
+        "name": "Data / analytics",
+        "keywords": ["data engineer", "data analyst", "analytics engineer", "sql", "dbt", "snowflake", "etl", "power bi", "tableau"]
+      },
+      {
+        "name": "Software engineering",
+        "keywords": ["software engineer", "backend", "frontend", "full stack", "fullstack", "developer"]
+      },
+      {
+        "name": "IT management / PM",
+        "keywords": ["it manager", "project manager", "product manager", "scrum", "pmp", "program manager"]
+      }
+    ],
+    "mentions": [
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "docker",
+      "terraform",
+      "ansible",
+      "windows server",
+      "active directory",
+      "vmware",
+      "linux",
+      "python",
+      "sql",
+      "snowflake",
+      "dbt",
+      "splunk",
+      "okta",
+      "intune",
+      "jira",
+      "servicenow",
+      "cisco",
+      "palo alto"
+    ]
+  },
+  "bls": {
+    "series": {
+      "info_openings": {
+        "id": "JTS510000000000000JOL",
+        "label": "Information sector job openings",
+        "unit": "thousands"
+      },
+      "info_hires": {
+        "id": "JTS510000000000000HIL",
+        "label": "Information sector hires",
+        "unit": "thousands"
+      },
+      "info_quits": {
+        "id": "JTS510000000000000QUL",
+        "label": "Information sector quits",
+        "unit": "thousands"
+      },
+      "info_layoffs": {
+        "id": "JTS510000000000000LDL",
+        "label": "Information sector layoffs and discharges",
+        "unit": "thousands"
+      },
+      "info_employment": {
+        "id": "CES5000000001",
+        "label": "Information sector employment",
+        "unit": "thousands"
+      },
+      "all_openings": {
+        "id": "JTS000000000000000JOL",
+        "label": "All US job openings (context)",
+        "unit": "thousands"
+      }
+    }
+  }
+}
