@@ -2,6 +2,14 @@
 
 Fifteen minutes, once. After that the repo updates itself every morning.
 
+**Fast path:** run this in your own terminal (not in an IDE task runner or the DSH sandbox):
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\setup.ps1
+```
+
+It installs the GitHub CLI if needed, signs you in through the browser, creates the repo, pushes `main`, sets the Actions secrets from `.env`, and triggers the first snapshot. The manual steps below are the fallback — and they explain exactly what the script does, so nothing is hidden.
+
 ## 1. Push the repo to GitHub
 
 Create an **empty** repository called `it-job-trends` at <https://github.com/new> — no README, no `.gitignore`, no licence (this folder already has them). Then, from this folder:
@@ -83,7 +91,8 @@ Everything lives in `config.json`:
 | `adzuna: skipped` | Secrets absent or named differently. Re-add as `ADZUNA_APP_ID` / `ADZUNA_APP_KEY`. |
 | `bls: error` mentioning a limit | Shared-runner IP hit the v1 quota. Add `BLS_API_KEY`. |
 | Workflow green but no commit | `git diff --cached --quiet` found no change — that day's data was byte-identical. Harmless. |
-| Push rejected | The workflow rebases and retries three times; a rejection means something pushed mid-run. Re-run the workflow. |
+| Push rejected: `refusing to allow an OAuth App to create or update workflow ... without 'workflow' scope` | The GitHub CLI token lacks the scope needed to push `.github/workflows/*`. Fix: `gh auth refresh -h github.com -s workflow`, then push again. `setup.ps1` now requests this scope automatically. |
+| Push rejected: `fetch first` | The remote already has commits (e.g. you created it with a README). Fix: `git pull --rebase origin main` then `git push -u origin main`. |
 | Charts don't render on GitHub | Inline SVG is supported in READMEs; if a future sanitizer strips it, the tables still carry the data and `data/history.csv` is authoritative. |
 
 ## Local test without keys
