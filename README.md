@@ -16,7 +16,7 @@ Three public sources, one snapshot a day, committed by a scheduled GitHub Action
 
 <!-- BEGIN:GENERATED -->
 
-_Updated **2026-11-19** · 2 snapshots collected · sources: Adzuna · Hacker News · US BLS_
+_Updated **2026-11-20** · 3 snapshots collected · sources: Adzuna · Hacker News · US BLS_
 
 ### IT postings by title
 
@@ -24,27 +24,27 @@ _CA · postings from the last 30 days · 346 unique postings in the sample_
 
 | Title | Postings | Median salary | Remote | Top employers |
 | --- | ---: | ---: | ---: | --- |
-| IT support | 2,006 | C$66,000 (n=18) | 6% | Northumberland Ferries Limited, Ocean Park Mechanical, Lemay, Apex Industries, The Shaw Group |
-| systems administrator | 1,703 | C$98,500 (n=22) | 8% | STACK IT Recruitment, Roadpost, Houle Electric Limited, Company3, Haisla Nation |
-| cloud engineer | 716 | C$135,000 (n=16) | 12% | Artech LLC, Flexstaf IT, Reitmans  Ltée/Ltd, Varicent, goeasy |
-| data analyst | 643 | C$87,500 (n=21) | 8% | Konrad, Cardinal Health, Papigen, PCL Construction, Artech LLC |
-| network engineer | 512 | C$110,000 (n=17) | 22% | Mercor, Artech LLC, Default Project, LanceSoft Inc, Optimal Growth Technologies |
-| help desk | 282 | C$59,300 (n=14) | 16% | VC3, Flexstaf IT, Delta Intelligent Building Technologies  Inc., P@thlion Staffing Careers, Government of Nunavut |
-| security analyst | 173 | C$89,700 (n=18) | 6% | TD Bank, Toronto Parking Authority, Insight Global, GoSecure, AltaLink |
+| IT support | 2,009 | C$64,500 (n=18) | 6% | Northumberland Ferries Limited, Ocean Park Mechanical, Lemay, Apex Industries, The Shaw Group |
+| systems administrator | 1,650 | C$97,000 (n=21) | 8% | STACK IT Recruitment, Roadpost, Houle Electric Limited, Company3, Haisla Nation |
+| cloud engineer | 732 | C$135,000 (n=16) | 10% | Artech LLC, Flexstaf IT, Reitmans  Ltée/Ltd, Varicent, goeasy |
+| data analyst | 632 | C$82,900 (n=17) | 6% | Cardinal Health, Konrad, PCL Construction, Artech LLC, 407 International |
+| network engineer | 506 | C$110,000 (n=17) | 20% | Mercor, Artech LLC, Default Project, LanceSoft Inc, Optimal Growth Technologies |
+| help desk | 289 | C$58,600 (n=13) | 16% | VC3, Flexstaf IT, Delta Intelligent Building Technologies  Inc., P@thlion Staffing Careers, Chimo Youth Retreat Centre |
+| security analyst | 174 | C$89,700 (n=18) | 6% | TD Bank, Toronto Parking Authority, GoSecure, AltaLink, Jatom Systems Inc.-CAN |
 
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="238" viewBox="0 0 760 238" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif"><text x="0" y="22.8" font-size="12" fill="#57606a">IT support</text><rect x="220" y="6.0" width="464.0" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="691.0" y="22.8" font-size="12" fill="#57606a">2,006</text><text x="0" y="55.8" font-size="12" fill="#57606a">systems administrator</text><rect x="220" y="39.0" width="393.9" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="620.9" y="55.8" font-size="12" fill="#57606a">1,703</text><text x="0" y="88.8" font-size="12" fill="#57606a">cloud engineer</text><rect x="220" y="72.0" width="165.6" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="392.6" y="88.8" font-size="12" fill="#57606a">716</text><text x="0" y="121.8" font-size="12" fill="#57606a">data analyst</text><rect x="220" y="105.0" width="148.7" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="375.7" y="121.8" font-size="12" fill="#57606a">643</text><text x="0" y="154.8" font-size="12" fill="#57606a">network engineer</text><rect x="220" y="138.0" width="118.4" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="345.4" y="154.8" font-size="12" fill="#57606a">512</text><text x="0" y="187.8" font-size="12" fill="#57606a">help desk</text><rect x="220" y="171.0" width="65.2" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="292.2" y="187.8" font-size="12" fill="#57606a">282</text><text x="0" y="220.8" font-size="12" fill="#57606a">security analyst</text><rect x="220" y="204.0" width="40.0" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="267.0" y="220.8" font-size="12" fill="#57606a">173</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="238" viewBox="0 0 760 238" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif"><text x="0" y="22.8" font-size="12" fill="#57606a">IT support</text><rect x="220" y="6.0" width="464.0" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="691.0" y="22.8" font-size="12" fill="#57606a">2,009</text><text x="0" y="55.8" font-size="12" fill="#57606a">systems administrator</text><rect x="220" y="39.0" width="381.1" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="608.1" y="55.8" font-size="12" fill="#57606a">1,650</text><text x="0" y="88.8" font-size="12" fill="#57606a">cloud engineer</text><rect x="220" y="72.0" width="169.1" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="396.1" y="88.8" font-size="12" fill="#57606a">732</text><text x="0" y="121.8" font-size="12" fill="#57606a">data analyst</text><rect x="220" y="105.0" width="146.0" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="373.0" y="121.8" font-size="12" fill="#57606a">632</text><text x="0" y="154.8" font-size="12" fill="#57606a">network engineer</text><rect x="220" y="138.0" width="116.9" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="343.9" y="154.8" font-size="12" fill="#57606a">506</text><text x="0" y="187.8" font-size="12" fill="#57606a">help desk</text><rect x="220" y="171.0" width="66.7" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="293.7" y="187.8" font-size="12" fill="#57606a">289</text><text x="0" y="220.8" font-size="12" fill="#57606a">security analyst</text><rect x="220" y="204.0" width="40.2" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="267.2" y="220.8" font-size="12" fill="#57606a">174</text></svg>
 
 _Each query is an independent Adzuna search, so rows overlap and do not add up._
 
 #### Postings matching the queries, per run
 
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif"><line x1="58" y1="174.0" x2="742" y2="174.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="177.5" font-size="11" fill="#57606a" text-anchor="end">5,498</text><line x1="58" y1="95.0" x2="742" y2="95.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="98.5" font-size="11" fill="#57606a" text-anchor="end">7,824</text><line x1="58" y1="16.0" x2="742" y2="16.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="19.5" font-size="11" fill="#57606a" text-anchor="end">10,150</text><polyline points="58.0,34.2 742.0,155.8" fill="none" stroke="#2da44e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><circle cx="58.0" cy="34.2" r="2.6" fill="#2da44e"/><circle cx="742.0" cy="155.8" r="2.6" fill="#2da44e"/><text x="58" y="193" font-size="11" fill="#57606a">2026-11-18</text><text x="742" y="193" font-size="11" fill="#57606a" text-anchor="end">2026-11-19</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif"><line x1="58" y1="174.0" x2="742" y2="174.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="177.5" font-size="11" fill="#57606a" text-anchor="end">5,449</text><line x1="58" y1="95.0" x2="742" y2="95.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="98.5" font-size="11" fill="#57606a" text-anchor="end">7,802</text><line x1="58" y1="16.0" x2="742" y2="16.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="19.5" font-size="11" fill="#57606a" text-anchor="end">10,156</text><polyline points="58.0,34.2 400.0,154.3 742.0,155.8" fill="none" stroke="#2da44e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><circle cx="58.0" cy="34.2" r="2.6" fill="#2da44e"/><circle cx="400.0" cy="154.3" r="2.6" fill="#2da44e"/><circle cx="742.0" cy="155.8" r="2.6" fill="#2da44e"/><text x="58" y="193" font-size="11" fill="#57606a">2026-11-18</text><text x="742" y="193" font-size="11" fill="#57606a" text-anchor="end">2026-11-20</text></svg>
 
 _The searches overlap, so this total double-counts jobs matching more than one title._
 
 ### What Hacker News is hiring for
 
-_[Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728) · 377 comments indexed · 332 substantive posts · 24% mention remote_
+_[Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728) · 380 comments indexed · 333 substantive posts · 24% mention remote_
 
 | Track | Posts mentioning it |
 | --- | ---: |
@@ -84,6 +84,7 @@ Information-sector postings are **1.5%** of all US job openings.
 
 | Date | Matching postings | HN posts | Info openings |
 | --- | ---: | ---: | ---: |
+| 2026-11-20 | 5,992 | 333 | 116k |
 | 2026-11-19 | 6,035 | 332 | 116k |
 | 2026-11-18 | 9,613 | 332 | 116k |
 
