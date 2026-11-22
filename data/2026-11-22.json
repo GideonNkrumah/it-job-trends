@@ -1,0 +1,765 @@
+{
+  "adzuna": {
+    "country": "ca",
+    "currency": "CAD",
+    "median_salary": 90198.25,
+    "status": "ok",
+    "titles": [
+      {
+        "count": 2069,
+        "median_salary": 61200.0,
+        "query": "IT support",
+        "remote_share": 0.1,
+        "salary_samples": 14,
+        "sampled": 50,
+        "top_companies": [
+          "Northumberland Ferries Limited",
+          "TWD Technologies Ltd.",
+          "Ocean Park Mechanical",
+          "Apex Industries",
+          "The Shaw Group"
+        ]
+      },
+      {
+        "count": 1635,
+        "median_salary": 92500.0,
+        "query": "systems administrator",
+        "remote_share": 0.1,
+        "salary_samples": 23,
+        "sampled": 50,
+        "top_companies": [
+          "STACK IT Recruitment",
+          "Roadpost",
+          "Company3",
+          "Haisla Nation",
+          "Staples"
+        ]
+      },
+      {
+        "count": 781,
+        "median_salary": 130000.0,
+        "query": "cloud engineer",
+        "remote_share": 0.1,
+        "salary_samples": 17,
+        "sampled": 50,
+        "top_companies": [
+          "Artech LLC",
+          "Flexstaf IT",
+          "Scotiabank",
+          "Reitmans  Lt\u00e9e/Ltd",
+          "Varicent"
+        ]
+      },
+      {
+        "count": 644,
+        "median_salary": 86000.0,
+        "query": "data analyst",
+        "remote_share": 0.06,
+        "salary_samples": 21,
+        "sampled": 50,
+        "top_companies": [
+          "Cardinal Health",
+          "Konrad",
+          "Papigen",
+          "Navitas",
+          "PCL Construction"
+        ]
+      },
+      {
+        "count": 502,
+        "median_salary": 108494.0,
+        "query": "network engineer",
+        "remote_share": 0.24,
+        "salary_samples": 17,
+        "sampled": 50,
+        "top_companies": [
+          "Mercor",
+          "Default Project",
+          "Artech LLC",
+          "LanceSoft Inc",
+          "Optimal Growth Technologies"
+        ]
+      },
+      {
+        "count": 290,
+        "median_salary": 58550.0,
+        "query": "help desk",
+        "remote_share": 0.16,
+        "salary_samples": 12,
+        "sampled": 50,
+        "top_companies": [
+          "VC3",
+          "Flexstaf IT",
+          "P@thlion Staffing Careers",
+          "Chimo Youth Retreat Centre",
+          "Velocity Solutions"
+        ]
+      },
+      {
+        "count": 169,
+        "median_salary": 87850.0,
+        "query": "security analyst",
+        "remote_share": 0.06,
+        "salary_samples": 14,
+        "sampled": 50,
+        "top_companies": [
+          "Intact Financial",
+          "Toronto Parking Authority",
+          "GoSecure",
+          "AltaLink",
+          "Jatom Systems Inc.-CAN"
+        ]
+      }
+    ],
+    "top_companies": [
+      "Artech LLC",
+      "VC3",
+      "Intact Financial",
+      "STACK IT Recruitment",
+      "Mercor",
+      "Flexstaf IT",
+      "Epsilon Solutions LTD",
+      "Scotiabank",
+      "Default Project",
+      "TD Bank"
+    ],
+    "total_postings": 6090,
+    "unique_postings": 346,
+    "window_days": 30
+  },
+  "bls": {
+    "info_share_of_openings": 1.5,
+    "latest_period": "2026-09",
+    "series": {
+      "all_openings": {
+        "history": [
+          {
+            "period": "2025-01",
+            "value": 7431.0
+          },
+          {
+            "period": "2025-02",
+            "value": 7242.0
+          },
+          {
+            "period": "2025-03",
+            "value": 6952.0
+          },
+          {
+            "period": "2025-04",
+            "value": 7098.0
+          },
+          {
+            "period": "2025-05",
+            "value": 7310.0
+          },
+          {
+            "period": "2025-06",
+            "value": 7204.0
+          },
+          {
+            "period": "2025-07",
+            "value": 7089.0
+          },
+          {
+            "period": "2025-08",
+            "value": 6919.0
+          },
+          {
+            "period": "2025-09",
+            "value": 7169.0
+          },
+          {
+            "period": "2025-10",
+            "value": 7170.0
+          },
+          {
+            "period": "2025-11",
+            "value": 6846.0
+          },
+          {
+            "period": "2025-12",
+            "value": 6550.0
+          },
+          {
+            "period": "2026-01",
+            "value": 7240.0
+          },
+          {
+            "period": "2026-02",
+            "value": 6922.0
+          },
+          {
+            "period": "2026-03",
+            "value": 6887.0
+          },
+          {
+            "period": "2026-04",
+            "value": 7585.0
+          },
+          {
+            "period": "2026-05",
+            "value": 7537.0
+          },
+          {
+            "period": "2026-06",
+            "value": 7182.0
+          },
+          {
+            "period": "2026-07",
+            "value": 7335.0
+          },
+          {
+            "period": "2026-08",
+            "value": 7190.0
+          },
+          {
+            "period": "2026-09",
+            "value": 7523.0
+          }
+        ],
+        "id": "JTS000000000000000JOL",
+        "label": "All US job openings (context)",
+        "mom_change": 333.0,
+        "period": "2026-09",
+        "period_label": "September",
+        "previous": 7190.0,
+        "unit": "thousands",
+        "value": 7523.0,
+        "year_ago": 7169.0,
+        "yoy_change": 354.0
+      },
+      "info_employment": {
+        "history": [
+          {
+            "period": "2025-01",
+            "value": 2877.0
+          },
+          {
+            "period": "2025-02",
+            "value": 2876.0
+          },
+          {
+            "period": "2025-03",
+            "value": 2867.0
+          },
+          {
+            "period": "2025-04",
+            "value": 2865.0
+          },
+          {
+            "period": "2025-05",
+            "value": 2864.0
+          },
+          {
+            "period": "2025-06",
+            "value": 2863.0
+          },
+          {
+            "period": "2025-07",
+            "value": 2861.0
+          },
+          {
+            "period": "2025-08",
+            "value": 2860.0
+          },
+          {
+            "period": "2025-09",
+            "value": 2859.0
+          },
+          {
+            "period": "2025-10",
+            "value": 2853.0
+          },
+          {
+            "period": "2025-11",
+            "value": 2848.0
+          },
+          {
+            "period": "2025-12",
+            "value": 2842.0
+          },
+          {
+            "period": "2026-01",
+            "value": 2815.0
+          },
+          {
+            "period": "2026-02",
+            "value": 2792.0
+          },
+          {
+            "period": "2026-03",
+            "value": 2793.0
+          },
+          {
+            "period": "2026-04",
+            "value": 2787.0
+          },
+          {
+            "period": "2026-05",
+            "value": 2782.0
+          },
+          {
+            "period": "2026-06",
+            "value": 2763.0
+          },
+          {
+            "period": "2026-07",
+            "value": 2767.0
+          },
+          {
+            "period": "2026-08",
+            "value": 2746.0
+          },
+          {
+            "period": "2026-09",
+            "value": 2735.0
+          },
+          {
+            "period": "2026-10",
+            "value": 2734.0
+          }
+        ],
+        "id": "CES5000000001",
+        "label": "Information sector employment",
+        "mom_change": -1.0,
+        "period": "2026-10",
+        "period_label": "October",
+        "previous": 2735.0,
+        "unit": "thousands",
+        "value": 2734.0,
+        "year_ago": 2853.0,
+        "yoy_change": -119.0
+      },
+      "info_hires": {
+        "history": [
+          {
+            "period": "2025-01",
+            "value": 65.0
+          },
+          {
+            "period": "2025-02",
+            "value": 74.0
+          },
+          {
+            "period": "2025-03",
+            "value": 77.0
+          },
+          {
+            "period": "2025-04",
+            "value": 83.0
+          },
+          {
+            "period": "2025-05",
+            "value": 78.0
+          },
+          {
+            "period": "2025-06",
+            "value": 83.0
+          },
+          {
+            "period": "2025-07",
+            "value": 70.0
+          },
+          {
+            "period": "2025-08",
+            "value": 69.0
+          },
+          {
+            "period": "2025-09",
+            "value": 71.0
+          },
+          {
+            "period": "2025-10",
+            "value": 72.0
+          },
+          {
+            "period": "2025-11",
+            "value": 76.0
+          },
+          {
+            "period": "2025-12",
+            "value": 89.0
+          },
+          {
+            "period": "2026-01",
+            "value": 91.0
+          },
+          {
+            "period": "2026-02",
+            "value": 71.0
+          },
+          {
+            "period": "2026-03",
+            "value": 89.0
+          },
+          {
+            "period": "2026-04",
+            "value": 78.0
+          },
+          {
+            "period": "2026-05",
+            "value": 79.0
+          },
+          {
+            "period": "2026-06",
+            "value": 73.0
+          },
+          {
+            "period": "2026-07",
+            "value": 62.0
+          },
+          {
+            "period": "2026-08",
+            "value": 70.0
+          },
+          {
+            "period": "2026-09",
+            "value": 94.0
+          }
+        ],
+        "id": "JTS510000000000000HIL",
+        "label": "Information sector hires",
+        "mom_change": 24.0,
+        "period": "2026-09",
+        "period_label": "September",
+        "previous": 70.0,
+        "unit": "thousands",
+        "value": 94.0,
+        "year_ago": 71.0,
+        "yoy_change": 23.0
+      },
+      "info_layoffs": {
+        "history": [
+          {
+            "period": "2025-01",
+            "value": 29.0
+          },
+          {
+            "period": "2025-02",
+            "value": 44.0
+          },
+          {
+            "period": "2025-03",
+            "value": 36.0
+          },
+          {
+            "period": "2025-04",
+            "value": 39.0
+          },
+          {
+            "period": "2025-05",
+            "value": 34.0
+          },
+          {
+            "period": "2025-06",
+            "value": 41.0
+          },
+          {
+            "period": "2025-07",
+            "value": 39.0
+          },
+          {
+            "period": "2025-08",
+            "value": 35.0
+          },
+          {
+            "period": "2025-09",
+            "value": 38.0
+          },
+          {
+            "period": "2025-10",
+            "value": 38.0
+          },
+          {
+            "period": "2025-11",
+            "value": 36.0
+          },
+          {
+            "period": "2025-12",
+            "value": 42.0
+          },
+          {
+            "period": "2026-01",
+            "value": 50.0
+          },
+          {
+            "period": "2026-02",
+            "value": 53.0
+          },
+          {
+            "period": "2026-03",
+            "value": 60.0
+          },
+          {
+            "period": "2026-04",
+            "value": 55.0
+          },
+          {
+            "period": "2026-05",
+            "value": 44.0
+          },
+          {
+            "period": "2026-06",
+            "value": 54.0
+          },
+          {
+            "period": "2026-07",
+            "value": 38.0
+          },
+          {
+            "period": "2026-08",
+            "value": 42.0
+          },
+          {
+            "period": "2026-09",
+            "value": 46.0
+          }
+        ],
+        "id": "JTS510000000000000LDL",
+        "label": "Information sector layoffs and discharges",
+        "mom_change": 4.0,
+        "period": "2026-09",
+        "period_label": "September",
+        "previous": 42.0,
+        "unit": "thousands",
+        "value": 46.0,
+        "year_ago": 38.0,
+        "yoy_change": 8.0
+      },
+      "info_openings": {
+        "history": [
+          {
+            "period": "2025-01",
+            "value": 101.0
+          },
+          {
+            "period": "2025-02",
+            "value": 125.0
+          },
+          {
+            "period": "2025-03",
+            "value": 115.0
+          },
+          {
+            "period": "2025-04",
+            "value": 134.0
+          },
+          {
+            "period": "2025-05",
+            "value": 109.0
+          },
+          {
+            "period": "2025-06",
+            "value": 123.0
+          },
+          {
+            "period": "2025-07",
+            "value": 157.0
+          },
+          {
+            "period": "2025-08",
+            "value": 141.0
+          },
+          {
+            "period": "2025-09",
+            "value": 119.0
+          },
+          {
+            "period": "2025-10",
+            "value": 117.0
+          },
+          {
+            "period": "2025-11",
+            "value": 88.0
+          },
+          {
+            "period": "2025-12",
+            "value": 112.0
+          },
+          {
+            "period": "2026-01",
+            "value": 100.0
+          },
+          {
+            "period": "2026-02",
+            "value": 80.0
+          },
+          {
+            "period": "2026-03",
+            "value": 83.0
+          },
+          {
+            "period": "2026-04",
+            "value": 82.0
+          },
+          {
+            "period": "2026-05",
+            "value": 72.0
+          },
+          {
+            "period": "2026-06",
+            "value": 89.0
+          },
+          {
+            "period": "2026-07",
+            "value": 78.0
+          },
+          {
+            "period": "2026-08",
+            "value": 91.0
+          },
+          {
+            "period": "2026-09",
+            "value": 116.0
+          }
+        ],
+        "id": "JTS510000000000000JOL",
+        "label": "Information sector job openings",
+        "mom_change": 25.0,
+        "period": "2026-09",
+        "period_label": "September",
+        "previous": 91.0,
+        "unit": "thousands",
+        "value": 116.0,
+        "year_ago": 119.0,
+        "yoy_change": -3.0
+      },
+      "info_quits": {
+        "history": [
+          {
+            "period": "2025-01",
+            "value": 40.0
+          },
+          {
+            "period": "2025-02",
+            "value": 34.0
+          },
+          {
+            "period": "2025-03",
+            "value": 39.0
+          },
+          {
+            "period": "2025-04",
+            "value": 31.0
+          },
+          {
+            "period": "2025-05",
+            "value": 36.0
+          },
+          {
+            "period": "2025-06",
+            "value": 42.0
+          },
+          {
+            "period": "2025-07",
+            "value": 36.0
+          },
+          {
+            "period": "2025-08",
+            "value": 34.0
+          },
+          {
+            "period": "2025-09",
+            "value": 22.0
+          },
+          {
+            "period": "2025-10",
+            "value": 36.0
+          },
+          {
+            "period": "2025-11",
+            "value": 44.0
+          },
+          {
+            "period": "2025-12",
+            "value": 45.0
+          },
+          {
+            "period": "2026-01",
+            "value": 40.0
+          },
+          {
+            "period": "2026-02",
+            "value": 42.0
+          },
+          {
+            "period": "2026-03",
+            "value": 31.0
+          },
+          {
+            "period": "2026-04",
+            "value": 26.0
+          },
+          {
+            "period": "2026-05",
+            "value": 32.0
+          },
+          {
+            "period": "2026-06",
+            "value": 28.0
+          },
+          {
+            "period": "2026-07",
+            "value": 28.0
+          },
+          {
+            "period": "2026-08",
+            "value": 40.0
+          },
+          {
+            "period": "2026-09",
+            "value": 39.0
+          }
+        ],
+        "id": "JTS510000000000000QUL",
+        "label": "Information sector quits",
+        "mom_change": -1.0,
+        "period": "2026-09",
+        "period_label": "September",
+        "previous": 40.0,
+        "unit": "thousands",
+        "value": 39.0,
+        "year_ago": 22.0,
+        "yoy_change": 17.0
+      }
+    },
+    "status": "ok"
+  },
+  "collected_at": "2026-11-22 20:20 UTC",
+  "date": "2026-11-22",
+  "hn": {
+    "comments_indexed": 380,
+    "mentions": {
+      "ansible": 2,
+      "aws": 33,
+      "azure": 5,
+      "docker": 13,
+      "gcp": 10,
+      "jira": 3,
+      "kubernetes": 16,
+      "linux": 17,
+      "python": 63,
+      "snowflake": 7,
+      "sql": 8,
+      "terraform": 13
+    },
+    "posted_at": "2026-11-02T16:01:37Z",
+    "posts": 332,
+    "remote_share": 0.241,
+    "status": "ok",
+    "story_id": "50338728",
+    "story_title": "Ask HN: Who is hiring? (November 2026)",
+    "thread_url": "https://news.ycombinator.com/item?id=50338728",
+    "tracks": {
+      "Cloud / DevOps": 63,
+      "Data / analytics": 15,
+      "IT management / PM": 15,
+      "IT support / help desk": 5,
+      "Networking": 2,
+      "Security": 16,
+      "Software engineering": 117,
+      "Systems / infrastructure": 70
+    }
+  }
+}
