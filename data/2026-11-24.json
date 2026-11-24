@@ -2,26 +2,26 @@
   "adzuna": {
     "country": "ca",
     "currency": "CAD",
-    "median_salary": 91448.25,
+    "median_salary": 90396.5,
     "status": "ok",
     "titles": [
       {
-        "count": 1988,
+        "count": 1945,
         "median_salary": 60000.0,
         "query": "IT support",
-        "remote_share": 0.08,
-        "salary_samples": 14,
+        "remote_share": 0.1,
+        "salary_samples": 15,
         "sampled": 50,
         "top_companies": [
           "Northumberland Ferries Limited",
-          "Vancouver Airport Authority",
           "TWD Technologies Ltd.",
           "Ocean Park Mechanical",
-          "Apex Industries"
+          "Apex Industries",
+          "iFlow Inc"
         ]
       },
       {
-        "count": 1627,
+        "count": 1591,
         "median_salary": 92500.0,
         "query": "systems administrator",
         "remote_share": 0.1,
@@ -36,11 +36,11 @@
         ]
       },
       {
-        "count": 766,
-        "median_salary": 130000.0,
+        "count": 780,
+        "median_salary": 133750.0,
         "query": "cloud engineer",
         "remote_share": 0.1,
-        "salary_samples": 15,
+        "salary_samples": 16,
         "sampled": 50,
         "top_companies": [
           "Artech LLC",
@@ -51,63 +51,63 @@
         ]
       },
       {
-        "count": 641,
-        "median_salary": 86750.0,
+        "count": 642,
+        "median_salary": 86000.0,
         "query": "data analyst",
         "remote_share": 0.08,
-        "salary_samples": 20,
+        "salary_samples": 21,
         "sampled": 50,
         "top_companies": [
           "Cardinal Health",
           "Konrad",
-          "Papigen",
           "Navitas",
-          "PCL Construction"
+          "PCL Construction",
+          "Artech LLC"
         ]
       },
       {
-        "count": 492,
+        "count": 478,
         "median_salary": 107807.0,
         "query": "network engineer",
-        "remote_share": 0.22,
+        "remote_share": 0.18,
         "salary_samples": 18,
         "sampled": 50,
         "top_companies": [
-          "Mercor",
           "Default Project",
+          "Deloitte",
           "Artech LLC",
           "LanceSoft Inc",
           "Vail Resorts"
         ]
       },
       {
-        "count": 290,
-        "median_salary": 58550.0,
+        "count": 282,
+        "median_salary": 59325.0,
         "query": "help desk",
-        "remote_share": 0.16,
-        "salary_samples": 12,
+        "remote_share": 0.1,
+        "salary_samples": 14,
         "sampled": 50,
         "top_companies": [
           "VC3",
+          "Pet Valu",
+          "Chimo Youth Retreat Centre",
           "Flexstaf IT",
-          "P@thlion Staffing Careers",
-          "Vancouver Airport Authority",
-          "Velocity Solutions"
+          "Sybex Support Services Inc."
         ]
       },
       {
-        "count": 162,
+        "count": 167,
         "median_salary": 87850.0,
         "query": "security analyst",
-        "remote_share": 0.06,
-        "salary_samples": 14,
+        "remote_share": 0.04,
+        "salary_samples": 16,
         "sampled": 50,
         "top_companies": [
           "Intact Financial",
           "Toronto Parking Authority",
           "GoSecure",
-          "AltaLink",
-          "Jatom Systems Inc.-CAN"
+          "Jatom Systems Inc.-CAN",
+          "TD Bank"
         ]
       }
     ],
@@ -115,16 +115,16 @@
       "Artech LLC",
       "VC3",
       "Intact Financial",
-      "Mercor",
-      "Flexstaf IT",
       "STACK IT Recruitment",
       "Epsilon Solutions LTD",
       "Scotiabank",
       "Default Project",
+      "Deloitte",
+      "Flexstaf IT",
       "TD Bank"
     ],
-    "total_postings": 5966,
-    "unique_postings": 344,
+    "total_postings": 5885,
+    "unique_postings": 345,
     "window_days": 30
   },
   "bls": {
@@ -726,7 +726,7 @@
     },
     "status": "ok"
   },
-  "collected_at": "2026-11-24 00:49 UTC",
+  "collected_at": "2026-11-24 23:01 UTC",
   "date": "2026-11-24",
   "hn": {
     "comments_indexed": 378,
