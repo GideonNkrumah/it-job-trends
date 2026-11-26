@@ -16,7 +16,7 @@ Three public sources, one snapshot a day, committed by a scheduled GitHub Action
 
 <!-- BEGIN:GENERATED -->
 
-_Updated **2026-11-25** · 7 snapshots collected · sources: Adzuna · Hacker News · US BLS_
+_Updated **2026-11-26** · 8 snapshots collected · sources: Adzuna · Hacker News · US BLS_
 
 ### IT postings by title
 
@@ -24,21 +24,21 @@ _CA · postings from the last 30 days · 346 unique postings in the sample_
 
 | Title | Postings | Median salary | Remote | Top employers |
 | --- | ---: | ---: | ---: | --- |
-| IT support | 1,921 | C$60,000 (n=15) | 12% | Northumberland Ferries Limited, TWD Technologies Ltd., Ocean Park Mechanical, Apex Industries, iFlow Inc |
-| systems administrator | 1,592 | C$92,500 (n=23) | 10% | STACK IT Recruitment, Roadpost, Company3, Haisla Nation, Staples |
-| cloud engineer | 779 | C$133,800 (n=16) | 12% | Artech LLC, Flexstaf IT, Scotiabank, Reitmans  Ltée/Ltd, Varicent |
-| data analyst | 626 | C$83,500 (n=21) | 8% | Navitas, PCL Construction, Artech LLC, Konrad, 407 International |
-| network engineer | 484 | C$114,000 (n=22) | 16% | Default Project, Artech LLC, TMX, LanceSoft Inc, Vail Resorts |
-| help desk | 287 | C$60,000 (n=15) | 12% | VC3, Flexstaf IT, PHSA, Chimo Youth Retreat Centre, Velocity Solutions |
-| security analyst | 153 | C$90,300 (n=18) | 8% | Toronto Parking Authority, GoSecure, Jatom Systems Inc.-CAN, Intact Financial, TD Bank |
+| IT support | 1,973 | C$60,000 (n=15) | 12% | Northumberland Ferries Limited, TWD Technologies Ltd., Ocean Park Mechanical, Apex Industries, iFlow Inc |
+| systems administrator | 1,611 | C$91,200 (n=24) | 10% | STACK IT Recruitment, Roadpost, Company3, Haisla Nation, Houle Electric Limited |
+| cloud engineer | 803 | C$133,800 (n=16) | 10% | Artech LLC, Flexstaf IT, Scotiabank, Reitmans  Ltée/Ltd, Varicent |
+| data analyst | 632 | C$83,500 (n=21) | 8% | Navitas, PCL Construction, Artech LLC, Konrad, 407 International |
+| network engineer | 484 | C$110,000 (n=23) | 14% | Default Project, LanceSoft Inc, Artech LLC, TMX, Vail Resorts |
+| help desk | 290 | C$59,300 (n=16) | 12% | VC3, Flexstaf IT, PHSA, Velocity Solutions, Jonas Software |
+| security analyst | 157 | C$90,900 (n=17) | 8% | GoSecure, Toronto Parking Authority, TD Bank, samdesk Canada Inc., Intact Financial |
 
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="238" viewBox="0 0 760 238" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif"><text x="0" y="22.8" font-size="12" fill="#57606a">IT support</text><rect x="220" y="6.0" width="464.0" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="691.0" y="22.8" font-size="12" fill="#57606a">1,921</text><text x="0" y="55.8" font-size="12" fill="#57606a">systems administrator</text><rect x="220" y="39.0" width="384.5" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="611.5" y="55.8" font-size="12" fill="#57606a">1,592</text><text x="0" y="88.8" font-size="12" fill="#57606a">cloud engineer</text><rect x="220" y="72.0" width="188.2" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="415.2" y="88.8" font-size="12" fill="#57606a">779</text><text x="0" y="121.8" font-size="12" fill="#57606a">data analyst</text><rect x="220" y="105.0" width="151.2" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="378.2" y="121.8" font-size="12" fill="#57606a">626</text><text x="0" y="154.8" font-size="12" fill="#57606a">network engineer</text><rect x="220" y="138.0" width="116.9" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="343.9" y="154.8" font-size="12" fill="#57606a">484</text><text x="0" y="187.8" font-size="12" fill="#57606a">help desk</text><rect x="220" y="171.0" width="69.3" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="296.3" y="187.8" font-size="12" fill="#57606a">287</text><text x="0" y="220.8" font-size="12" fill="#57606a">security analyst</text><rect x="220" y="204.0" width="37.0" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="264.0" y="220.8" font-size="12" fill="#57606a">153</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="238" viewBox="0 0 760 238" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif"><text x="0" y="22.8" font-size="12" fill="#57606a">IT support</text><rect x="220" y="6.0" width="464.0" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="691.0" y="22.8" font-size="12" fill="#57606a">1,973</text><text x="0" y="55.8" font-size="12" fill="#57606a">systems administrator</text><rect x="220" y="39.0" width="378.9" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="605.9" y="55.8" font-size="12" fill="#57606a">1,611</text><text x="0" y="88.8" font-size="12" fill="#57606a">cloud engineer</text><rect x="220" y="72.0" width="188.8" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="415.8" y="88.8" font-size="12" fill="#57606a">803</text><text x="0" y="121.8" font-size="12" fill="#57606a">data analyst</text><rect x="220" y="105.0" width="148.6" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="375.6" y="121.8" font-size="12" fill="#57606a">632</text><text x="0" y="154.8" font-size="12" fill="#57606a">network engineer</text><rect x="220" y="138.0" width="113.8" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="340.8" y="154.8" font-size="12" fill="#57606a">484</text><text x="0" y="187.8" font-size="12" fill="#57606a">help desk</text><rect x="220" y="171.0" width="68.2" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="295.2" y="187.8" font-size="12" fill="#57606a">290</text><text x="0" y="220.8" font-size="12" fill="#57606a">security analyst</text><rect x="220" y="204.0" width="36.9" height="24" rx="3" fill="#2da44e" fill-opacity="0.85"/><text x="263.9" y="220.8" font-size="12" fill="#57606a">157</text></svg>
 
 _Each query is an independent Adzuna search, so rows overlap and do not add up._
 
 #### Postings matching the queries, per run
 
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif"><line x1="58" y1="174.0" x2="742" y2="174.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="177.5" font-size="11" fill="#57606a" text-anchor="end">5,276</text><line x1="58" y1="95.0" x2="742" y2="95.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="98.5" font-size="11" fill="#57606a" text-anchor="end">7,728</text><line x1="58" y1="16.0" x2="742" y2="16.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="19.5" font-size="11" fill="#57606a" text-anchor="end">10,179</text><polyline points="58.0,34.2 172.0,149.5 286.0,150.9 400.0,150.0 514.0,147.8 628.0,154.4 742.0,155.8" fill="none" stroke="#2da44e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><circle cx="58.0" cy="34.2" r="2.6" fill="#2da44e"/><circle cx="172.0" cy="149.5" r="2.6" fill="#2da44e"/><circle cx="286.0" cy="150.9" r="2.6" fill="#2da44e"/><circle cx="400.0" cy="150.0" r="2.6" fill="#2da44e"/><circle cx="514.0" cy="147.8" r="2.6" fill="#2da44e"/><circle cx="628.0" cy="154.4" r="2.6" fill="#2da44e"/><circle cx="742.0" cy="155.8" r="2.6" fill="#2da44e"/><text x="58" y="193" font-size="11" fill="#57606a">2026-11-18</text><text x="742" y="193" font-size="11" fill="#57606a" text-anchor="end">2026-11-25</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif"><line x1="58" y1="174.0" x2="742" y2="174.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="177.5" font-size="11" fill="#57606a" text-anchor="end">5,276</text><line x1="58" y1="95.0" x2="742" y2="95.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="98.5" font-size="11" fill="#57606a" text-anchor="end">7,728</text><line x1="58" y1="16.0" x2="742" y2="16.0" stroke="#d0d7de" stroke-width="1"/><text x="52" y="19.5" font-size="11" fill="#57606a" text-anchor="end">10,179</text><polyline points="58.0,34.2 155.7,149.5 253.4,150.9 351.1,150.0 448.9,147.8 546.6,154.4 644.3,155.8 742.0,152.3" fill="none" stroke="#2da44e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><circle cx="58.0" cy="34.2" r="2.6" fill="#2da44e"/><circle cx="155.7" cy="149.5" r="2.6" fill="#2da44e"/><circle cx="253.4" cy="150.9" r="2.6" fill="#2da44e"/><circle cx="351.1" cy="150.0" r="2.6" fill="#2da44e"/><circle cx="448.9" cy="147.8" r="2.6" fill="#2da44e"/><circle cx="546.6" cy="154.4" r="2.6" fill="#2da44e"/><circle cx="644.3" cy="155.8" r="2.6" fill="#2da44e"/><circle cx="742.0" cy="152.3" r="2.6" fill="#2da44e"/><text x="58" y="193" font-size="11" fill="#57606a">2026-11-18</text><text x="742" y="193" font-size="11" fill="#57606a" text-anchor="end">2026-11-26</text></svg>
 
 _The searches overlap, so this total double-counts jobs matching more than one title._
 
@@ -84,6 +84,7 @@ Information-sector postings are **1.5%** of all US job openings.
 
 | Date | Matching postings | HN posts | Info openings |
 | --- | ---: | ---: | ---: |
+| 2026-11-26 | 5,950 | 329 | 116k |
 | 2026-11-25 | 5,842 | 329 | 116k |
 | 2026-11-24 | 5,885 | 330 | 116k |
 | 2026-11-22 | 6,090 | 332 | 116k |
